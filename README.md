@@ -7,9 +7,9 @@
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-- 🔭 I’m currently working on the chive programming language
-- 🌱 I’m currently learning advanced front end development
-- 📫 How to reach me: incognitoname3@gmail.com
+- 🔭 I’m currently working on the chive programming language<br>
+- 🌱 I’m currently learning advanced front end development<br>
+- 📫 How to reach me: incognitoname3@gmail.com<br>
 
 
 
